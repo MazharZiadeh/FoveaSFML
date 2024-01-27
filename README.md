@@ -1,8 +1,6 @@
 Foveated Rendering
 ----------------------------------------------------------------------------------------------------
-
-[<iframe width="814" height="792" src="https://www.youtube.com/embed/DSRsNqVTjFM" title="FoveaSFML" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-](https://www.youtube.com/watch?v=DSRsNqVTjFM)
+https://youtu.be/DSRsNqVTjFM 
 
 Overview
 ----------------------------------------------------------------------------------------------------
